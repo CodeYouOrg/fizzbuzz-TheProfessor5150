@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15448154&assignment_repo_type=AssignmentRepo)
 # FizBuzz
 Code Louisville Python programming exercise
 
@@ -9,27 +10,8 @@ From [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) on wikipedia.org.
 
 In this exercise we will implement the classic programming challenge FizzBuzz. This is the Week 2 Bonus Exercise from the openSAP Learn Python course.If you have already solved it as part of the Learn Python course you can re-use your code here.
 
-Write a Python program that prints the numbers from 1 to 100. If the number is dividable by 3 print Fizz, if the number is dividable by 5 print Buzz instead of the number. If the number is dividable by 3 and 5 print FizzBuzz instead of the number.
 
-Below is the output of the program for the first 15 numbers:
 
-```
-1
-2
-Fizz
-4
-Buzz
-Fizz
-7
-8
-Fizz
-Buzz
-11
-Fizz
-13
-14
-FizzBuzz
-```
 
 
 ## Instructions
